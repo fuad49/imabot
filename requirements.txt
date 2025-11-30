@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+supabase
+torch
+torchvision
+open_clip_torch
+transformers
+ultralytics
+pillow
+python-dotenv
+easyocr
+numpy
+requests
